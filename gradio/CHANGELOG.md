@@ -1,5 +1,15 @@
 # gradio
 
+## 5.6.0
+
+### Features
+
+- [#9906](https://github.com/gradio-app/gradio/pull/9906) [`eafe22c`](https://github.com/gradio-app/gradio/commit/eafe22cd9404d536b03d3fa80003acea78599d49) - Clearer error message in CheckboxGroup's preprocess function.  Thanks @muhammadyaseen!
+
+### Fixes
+
+- [#9904](https://github.com/gradio-app/gradio/pull/9904) [`f523c91`](https://github.com/gradio-app/gradio/commit/f523c915d3732859ff4a8019a82cb597b5208ae2) - Ensure dropped files are validated in MultimediaTextbox.  Thanks @hannahblair!
+
 ## 5.5.0
 
 ### Features
